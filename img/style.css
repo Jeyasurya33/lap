@@ -1,0 +1,19 @@
+
+.a1{
+    background-image: url(/img//domenico-loia-hGV2TfOh0ns-unsplash.jpg);
+    padding: 5rem 0 8rem 0;
+    background-size: cover;
+    background-position: center;
+}
+.ss{
+    padding:3rem 0.5rem 2rem;
+    
+    margin-top: -50px;
+}
+
+.a2{
+    background-image: linear-gradient(rgb(0,0,0,0.9),rgb(0,0,0,0.9)),url(/img/tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg);
+    padding: 3rem 0 7rem 0;
+    background-size: cover;
+    background-position: center;
+}
